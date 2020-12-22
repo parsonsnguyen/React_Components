@@ -2,6 +2,6 @@
 
 ## Demos
 
-### 1.[Image Slider](https://github.com/parsonsnguyen/React_Components/tree/master/React-Image-Slider-Component)
-### 2.[Popup](https://github.com/parsonsnguyen/React_Components/tree/master/React-Popup-Component)
-### 3.[Tab](https://github.com/parsonsnguyen/React_Components/tree/master/React-Tab-Component)
+### 1.[Image Slider](https://parsonsnguyen.github.io/React_Components/React-Image-Slider-Component/example/index.html)
+### 2.[Popup](https://parsonsnguyen.github.io/React_Components/React-Popup-Component/example/index.html)
+### 3.[Tab](https://parsonsnguyen.github.io/React_Components/React-Tab-Component/example/index.html)
