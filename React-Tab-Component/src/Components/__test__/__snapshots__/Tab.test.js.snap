@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tab:  has selectedTabIndex equals to tabIndex: className should contain isSelected value 1`] = `
+<li
+  className="la-tabs-nav-list-item isSelected"
+>
+  <a
+    className="la-tabs-nav-link"
+    onClick={[Function]}
+  >
+    tab-header
+  </a>
+</li>
+`;
+
+exports[`Tab:  renders correctly 1`] = `
+<li
+  className="la-tabs-nav-list-item "
+>
+  <a
+    className="la-tabs-nav-link"
+    onClick={[Function]}
+  >
+    tab-header
+  </a>
+</li>
+`;

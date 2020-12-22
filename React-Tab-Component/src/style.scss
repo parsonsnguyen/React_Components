@@ -1,0 +1,39 @@
+$prefix: ".la-tabs";
+
+#{$prefix}{
+    &-nav{
+        background: #f6f8fa;
+        border-bottom: 1px solid #dee2e6;
+        margin-bottom: 10px;
+
+      &-list{
+        list-style-type: none;
+        margin-bottom: -2px;
+        overflow: hidden;
+        padding: 8px 0px;
+
+        &-item {
+            display: inline;
+            padding: 7px 10px;
+            color: #586069;
+            border: 1px solid transparent;
+            
+            &:hover{
+                cursor: pointer;
+            }
+    
+            &.isSelected {
+                color: #5081b3;
+                background-color: #fff;
+                border-color: #dee2e6 #dee2e6 #fff;
+                border-top-left-radius: .25rem;
+                border-top-right-radius: .25rem;
+            }
+          }
+      }
+    }
+
+    &-selected-tab-content{
+        border: 1px solid transparent;
+    }
+}
